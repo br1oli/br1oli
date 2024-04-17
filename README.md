@@ -7,7 +7,7 @@
      <img width=50px height=50px src=https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png>
      <img width=50px height=50px src=https://camo.githubusercontent.com/1f0836854315fb9f500aaad4dae0375219298c2d8035f63de3b0dfa180e6bb70/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6e6f64656a732d69636f6e2d6c6f676f2d706e672d7472616e73706172656e742e706e67>  
      <img width=50px height=50px src=https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667>    
-     <img width=50px height=50px src=[[https://www.google.com.uy/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTypeScript&psig=AOvVaw0GKNPM8MKxzHXEbEJkrdVN&ust=1713402506128000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiPwe-HyIUDFQAAAAAdAAAAABAE](https://es.wikipedia.org/wiki/TypeScript#/media/Archivo:Typescript_logo_2020.svg)](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)>  
+     <img width=50px height=50px src=https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg>  
      <img width=50px height=50px src=https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png>  
      <img width=50px height=50px src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png>  
 </ul>
